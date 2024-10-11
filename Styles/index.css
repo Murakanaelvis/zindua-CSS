@@ -1,0 +1,24 @@
+*{
+    padding: 6px;
+}
+h2{
+    color: bisque;
+    font-size: 2.5em;
+}
+h1{
+color: green;
+font-weight: 100;
+}
+p{ color: rgb(68, 99, 88);
+    text-align: justify;
+    font-style: oblique;
+    
+}
+section{
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform:uppercase;
+}
+h1, h2{
+    text-decoration-line: underline dotted;
+}
